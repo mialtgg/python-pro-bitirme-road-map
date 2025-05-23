@@ -1,6 +1,6 @@
 # 🧠 Bitirme Projem Hakkında
 
-Merhaba! Ben 12 yaşında bir geliştiriciyim ve yakın zamanda kapsamlı bir yazılım kursunu tamamladım. Bu kurs süresince birçok farklı teknoloji ve araç öğrendim. Şimdi, bu öğrendiklerimi birleştireceğim yaratıcı bir bitirme projesi yapma aşamasındayım. İşte şimdiye kadar öğrendiğim konular:
+
 
 ## 🚀 Öğrendiğim Teknolojiler ve Yetenekler
 
